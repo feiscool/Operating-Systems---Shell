@@ -1,6 +1,5 @@
 // Operating Systems
 // Homework 2
-// Frank Edwards (fge0001)
 
 #include <stdio.h>
 #include <iostream>
